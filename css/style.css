@@ -1,0 +1,9 @@
+.row *{
+    min-height: 50px;
+    border: 1px solid #0088cc;
+    background: #eee;
+}
+
+.item {
+    text-align: center;
+}
